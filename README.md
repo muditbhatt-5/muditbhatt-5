@@ -1,7 +1,7 @@
 
 <img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="https://wallpaperboat.com/wp-content/uploads/2019/10/coding-16.jpg">
 
-<p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
+<p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%10views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
