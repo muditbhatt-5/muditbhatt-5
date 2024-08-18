@@ -1,5 +1,5 @@
 
-<img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="https://wallpaperboat.com/wp-content/uploads/2019/10/coding-16.jpg">
+<video align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="https://motionbgs.com/media/5350/blue-digital-programming.960x540.mp4"></video>
 
 <p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
 
