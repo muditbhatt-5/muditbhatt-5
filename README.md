@@ -17,8 +17,8 @@
 
 
 
-- 👋 Hi, I’m @themudit-18
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Mudit Bhatt
+- 👀 I’m interested in Development 
 - 🌱 I’m currently learning in Asp.net
 - 📫 How to reach me -
 - bhattmudit213@gmail.com
