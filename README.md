@@ -23,6 +23,9 @@
 - 📫 How to reach me -
 - bhattmudit213@gmail.com
 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=themudit-18&show_icons=true&locale=en" />
+
 <!---
 themudit-18/themudit-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
