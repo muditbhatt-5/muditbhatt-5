@@ -17,7 +17,7 @@
 
 
 
-- 👋 Hi, I am Mudit Bhatt
+- 👋 Hi, I'm Mudit Bhatt
 - 👀 I’m interested in Development 
 - 🌱 I’m currently learning in Asp.net
 - 📫 How to reach me -
