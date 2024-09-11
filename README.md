@@ -17,7 +17,7 @@
 
 
 
-<h1>- 👋 Hi, I'm Mudit Bhatt </h1>
+<h1 style="color: rgb(0,0,100);">- 👋 Hi, I'm Mudit Bhatt </h1>
 <h2>- 👀 I’m interested in Development </h2>
 <h2>- 🌱 I’m currently learning in Asp.net</h2>
 <h2>- 📫 How to reach me -
