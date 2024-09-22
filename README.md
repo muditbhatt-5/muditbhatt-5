@@ -1,4 +1,4 @@
-<img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;"></img>
+<img src="https://tse4.mm.bing.net/th?id=OIP.yw0TnheAGN-LPneDaTlaxwHaD8&pid=Api&P=0&h=180" align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;"></img>
 
 
 <p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
