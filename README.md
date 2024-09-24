@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=themudit-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 
-  <img src="https://user-images.githubusercontent.com/20955511/183303756-2b0134af-ab8b-42d4-b805-4e853f929c5e.png" height="150" alt="stats graph"  />
+<img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=themudit-18&theme=default&hide_border=false&stroke=ffffff&ring=00ffff&fire=00b7eb&currStreakNum=87CEEB&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=002147&background=002147&dates=ffffff" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themudit-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
