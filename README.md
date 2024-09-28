@@ -98,8 +98,8 @@
     <div style="max-width: 600px; margin: auto; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 30px;">
         <h1 style="color: #333; text-align: center;">👋 𝓗𝓲, 𝓘'𝓶 𝓜𝓾𝓭𝓲𝓽 𝓑𝓱𝓪𝓽𝓽</h1>
         <p style="color: #666; font-size: 18px; line-height: 1.6;">
-            <strong>👀 I’m interested in Development</strong><br>
-            🌱 <strong>MERN stack Developer</strong> / <strong>Asp.Net MVC Core Developer</strong> / <strong>Application Developer</strong> / <strong>iOS Developer</strong> / <strong>Laravel Developer</strong>
+            <strong>👀 𝓘’𝓂 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝑒𝒹 𝒾𝓃 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉</strong><br>
+            <strong>🧑🏻‍💻 𝓜𝓔𝓡𝒩 𝓈𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 / 𝒜𝓈𝓅.𝒩𝑒𝓉 𝓜𝒱𝒞 𝒞𝑜𝓇𝑒 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 / 𝒜𝓅𝓅𝓁𝒾𝒸𝒶𝓉𝒾𝑜𝓃 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 / 𝒾𝒪𝒮 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 / 𝓛𝒶𝓇𝒶𝓋𝑒𝓁 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 / 𝒜𝓁&𝓜𝓛 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</strong>
         </p>
         <p style="font-size: 18px; color: #666; margin-top: 20px;">
             📫 <strong>How to reach me:</strong><br>
