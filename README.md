@@ -96,7 +96,7 @@
 
 <div style="font-family: cursive; background-color: #f4f4f4; padding: 20px;">
     <div style="max-width: 600px; margin: auto; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 30px;">
-        <h1 style="color: #333; text-align: center;">👋 Hi, I'm Mudit Bhatt</h1>
+        <h1 style="color: #333; text-align: center;">👋 𝓗𝓲, 𝓘'𝓶 𝓜𝓾𝓭𝓲𝓽 𝓑𝓱𝓪𝓽𝓽</h1>
         <p style="color: #666; font-size: 18px; line-height: 1.6;">
             <strong>👀 I’m interested in Development</strong><br>
             🌱 <strong>MERN stack Developer</strong> / <strong>Asp.Net MVC Core Developer</strong> / <strong>Application Developer</strong> / <strong>iOS Developer</strong> / <strong>Laravel Developer</strong>
