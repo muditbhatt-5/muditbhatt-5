@@ -94,7 +94,7 @@
 
 
 
-<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
+<div style="font-family: cursive; background-color: #f4f4f4; padding: 20px;">
     <div style="max-width: 600px; margin: auto; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 30px;">
         <h1 style="color: #333; text-align: center;">👋 Hi, I'm Mudit Bhatt</h1>
         <p style="color: #666; font-size: 18px; line-height: 1.6;">
