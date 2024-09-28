@@ -94,11 +94,19 @@
 
 
 
-<h1 style="color: rgb(0,0,100);">- 👋 Hi, I'm Mudit Bhatt </h1>
-<h2>- 👀 I’m interested in Development </h2>
-<h2>- 🌱 MERN stack Developer/Asp.Net MVC Core Developer/ Application Developer/IOS Developer/Laravel Developer</h2>
-<h2>- 📫 How to reach me -
-- bhattmudit213@gmail.com</h2>
+<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
+    <div style="max-width: 600px; margin: auto; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 30px;">
+        <h1 style="color: #333; text-align: center;">👋 Hi, I'm Mudit Bhatt</h1>
+        <p style="color: #666; font-size: 18px; line-height: 1.6;">
+            <strong>👀 I’m interested in Development</strong><br>
+            🌱 <strong>MERN stack Developer</strong> / <strong>Asp.Net MVC Core Developer</strong> / <strong>Application Developer</strong> / <strong>iOS Developer</strong> / <strong>Laravel Developer</strong>
+        </p>
+        <p style="font-size: 18px; color: #666; margin-top: 20px;">
+            📫 <strong>How to reach me:</strong><br>
+            <a href="mailto:bhattmudit213@gmail.com" style="color: #007bff; text-decoration: none;">bhattmudit213@gmail.com</a>
+        </p>
+    </div>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themudit-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
