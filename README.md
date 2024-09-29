@@ -2,9 +2,7 @@
 
 
 <p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-### [Connect With Me 💬](https://bio.link/themudit_18) 
+ 
 
 <h3 align="left">Frontend: </h3>
 <p align="left">
