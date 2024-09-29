@@ -103,7 +103,8 @@
         </p>
         <p style="font-size: 18px; color: #666; margin-top: 20px;">
             📫 <strong>How to reach me:</strong><br>
-            <a href="mailto:bhattmudit213@gmail.com" style="color: #007bff; text-decoration: none;">bhattmudit213@gmail.com</a>
+            <a class="btn btn-primary" href="mailto:bhattmudit213@gmail.com" style="color: #007bff; text-decoration: none;">bhattmudit213@gmail.com</a>
+          <h2 class="text-primary">6355519828</h2>
         </p>
     </div>
 </div>
