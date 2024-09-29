@@ -4,10 +4,7 @@
 <p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/BhattMudit254" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP._TJB1b_PfMN1Ok5fi6JjcQHaEk&pid=Api&P=0&h=180" alt="bhadra26" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/themudit18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhadramohit27" height="30" width="40" /></a>
-</p>
+### [Connect With Me 💬](https://bio.link/themudit_18) 
 
 <h3 align="left">Frontend: </h3>
 <p align="left">
