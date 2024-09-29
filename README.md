@@ -103,8 +103,7 @@
         </p>
         <p style="font-size: 18px; color: #666; margin-top: 20px;">
             📫 <strong>How to reach me:</strong><br>
-            <a class="btn btn-primary" href="mailto:bhattmudit213@gmail.com" style="color: #007bff; text-decoration: none;">bhattmudit213@gmail.com</a>
-          <h2 class="text-primary">6355519828</h2>
+          <a href="https://bio.link/themudit_18">Connect With Me</a>
         </p>
     </div>
 </div>
