@@ -1,7 +1,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWltdzZxMHFjMWt1YmtxY2lyaGFrMTNzeWlvcDd2Y3J3aTAwbzdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;"></img>
 
 
-<p align="left"> <img width="120" height="26" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
+<p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
  
 
 <h3 align="left">Frontend: </h3>
