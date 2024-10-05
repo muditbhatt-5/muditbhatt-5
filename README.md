@@ -4,7 +4,7 @@
 <p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
  
 
-<h3 align="left">Frontend:</h3>
+<h3 align="left">Frontend: </h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
