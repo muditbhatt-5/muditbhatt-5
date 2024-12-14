@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWltdzZxMHFjMWt1YmtxY2lyaGFrMTNzeWlvcDd2Y3J3aTAwbzdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" alt="naName" style="border-radius: 100px; width: 510px; height: 250px;"></img> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWltdzZxMHFjMWt1YmtxY2lyaGFrMTNzeWlvcDd2Y3J3aTAwbzdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" alt="naName" style="border-radius: 100px; width: 520px; height: 250px;"></img> 
 
 
 <p align="left"> <img width="122" height="25" src="https://komarev.com/ghpvc/?username=themudit-18&label=Profile%20views&color=0e75b6&style=flat" alt="themudit-18" /> </p>
