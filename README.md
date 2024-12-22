@@ -2,9 +2,8 @@
 
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=muditbhatt-5&label=Profile%20Views&color=1&icon=2&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=muditbhatt-5&label=Profile%20Views&color=1&icon=0&pretty=true" />
 </a>
- 
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
