@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWltdzZxMHFjMWt1YmtxY2lyaGFrMTNzeWlvcDd2Y3J3aTAwbzdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" alt="naName" style="border-radius: 100px; width: 511px; height: 250px;"></img> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWltdzZxMHFjMWt1YmtxY2lyaGFrMTNzeWlvcDd2Y3J3aTAwbzdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" alt="naName" style="border-radius: 100px; width: 500px; height: 250px;"></img> 
 
 
 <a href="https://visitcount.itsvg.in">
