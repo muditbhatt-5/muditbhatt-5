@@ -2,10 +2,6 @@
 <br/>
  
 
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
-
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
