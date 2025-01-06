@@ -1,4 +1,6 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWltdzZxMHFjMWt1YmtxY2lyaGFrMTNzeWlvcDd2Y3J3aTAwbzdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" align="right" alt="naName" style="border-radius: 100px; width: 500px; height: 250px;"></img> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
+ 
 
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
