@@ -1,7 +1,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="250px" />
 <br/>
 
- <img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 350px;" src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" />
+ <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" />
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
