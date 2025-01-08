@@ -1,7 +1,10 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="250px" />
 <br/>
 
- <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" />
+ <p style="color: blue; text-shadow: 0px 0px 8px lightblue;">
+  Visitor Count: <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" />
+</p>
+
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
