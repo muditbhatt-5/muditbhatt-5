@@ -6,8 +6,6 @@
 </h1>
 
 
-<a href="https://github.com/muditbhatt-5/GithubProfileReadmeTemplates/stargazers"><img src="https://img.shields.io/github/stars/muditbhatt-5/GithubProfileReadmeTemplates" alt="Stars Badge"/></a>
-<a href="https://github.com/muditbhatt-5/GithubProfileReadmeTemplates/pulls"><img src="https://img.shields.io/github/issues-pr/muditbhatt-5/GithubProfileReadmeTemplates" alt="Pull Requests Badge"/></a>
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
