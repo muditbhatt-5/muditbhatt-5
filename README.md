@@ -107,7 +107,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&show_icons=true&locale=en" />
 
 
-<img width="465" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=default&hide_border=false&stroke=ffffff&ring=00ffff&fire=00b7eb&currStreakNum=87CEEB&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=002147&background=002147&dates=ffffff" />
+<img width="465" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=blueberry&hide_border=true" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muditbhatt-5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
