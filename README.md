@@ -104,7 +104,7 @@
 </div>
 <div align="center">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&show_icons=true&locale=en" />
+<img  src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
 
 
 <img width="465" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=blueberry&hide_border=true" />
