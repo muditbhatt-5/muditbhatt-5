@@ -1,7 +1,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="250px" />
 <br/>
 
- <h1 style="color: blue; text-shadow: 0px 0px 8px lightblue;">
+ <h1 style="color: blue; text-shadow: 0px 0px 9px lightblue;">
   Visitor Count: <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" />
 </h1>
 
