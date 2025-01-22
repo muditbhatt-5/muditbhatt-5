@@ -106,7 +106,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
 
 
-<img width="465" height="150" src="https://github-stats.omsimos.com/user/muditbhatt-5?theme=blueberry&hide_border=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=blueberry&hide_border=true" alt="muditbhatt-5's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 
