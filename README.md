@@ -118,7 +118,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
 
 
-<img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" height="150" alt="git bedge"  />
-<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/2fc9d2bc41c0ad97d655ed460ea44fca.png" height="150" alt="tryhackme"  />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Badges%F0%9F%8F%86%E2%9C%A8:&color=015eda" alt="Typing SVG" />
+</a>
+
+<img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" height="100" alt="git bedge"  />
+<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/2fc9d2bc41c0ad97d655ed460ea44fca.png" height="100" alt="tryhackme"  />
 </div>
 
