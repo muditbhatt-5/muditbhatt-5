@@ -115,6 +115,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=algolia" /></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="150" alt="Contribution graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
 </div>
 
