@@ -117,6 +117,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
 
-<img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" height="50" alt="Contribution graph"  />
+<img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" height="150" alt="Contribution graph"  />
 </div>
 
