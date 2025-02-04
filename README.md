@@ -121,7 +121,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Badges%F0%9F%8F%86%E2%9C%A8:&color=015eda" alt="Typing SVG" />
 </a> <br/>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/muditbhatt5.png?update=1" height="100" alt="tryhackmebadge"  /><br/>
 <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" height="100" alt="Metasploit"  />
 <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/2fc9d2bc41c0ad97d655ed460ea44fca.png" height="100" alt="tryhackme"  />
 <img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" height="100" alt="git bedge"  />
