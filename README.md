@@ -1,5 +1,5 @@
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="300px" />
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="290px" />
 <br/>
 
  <h1 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
