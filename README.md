@@ -124,7 +124,7 @@
 
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/muditbhatt5.png?update=1" width="400" height="100" alt="tryhackmebadge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/muditbhatt5.png?update=1" width="401" height="100" alt="tryhackmebadge" />
 </p>
 <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" height="100" alt="Metasploit"  />
 <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/2fc9d2bc41c0ad97d655ed460ea44fca.png" height="100" alt="tryhackme"  />
