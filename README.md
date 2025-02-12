@@ -94,6 +94,8 @@
      <div style="background-color: black; font-family: cursive;">
         <h1 style="font-size: 80px; color: #fff; text-align: center; animation: glow 1s ease-in-out infinite alternate; text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px       #e60073, 0 0 60px #e60073, 0 0 70px #e60073;">👋 𝓗𝓲, 𝓘'𝓶 𝓜𝓾𝓭𝓲𝓽 𝓑𝓱𝓪𝓽𝓽</h1>
      </div>
+     ```html
+<h1 style="font-size:80px;color:#fff;text-align:center;font-family:cursive;animation:glow 1s ease-in-out infinite alternate;@keyframes glow {from {text-shadow:0 0 10px #fff,0 0 20px #fff,0 0 30px #e60073,0 0 40px #e60073,0 0 50px #e60073,0 0 60px #e60073,0 0 70px #e60073;}to {text-shadow:0 0 20px #fff,0 0 30px #ff4da6,0 0 40px #ff4da6,0 0 50px #ff4da6,0 0 60px #ff4da6,0 0 70px #ff4da6,0 0 80px #ff4da6;}}">GLOWING TEXT</h1>
         <p style="color: #666; font-size: 18px; line-height: 1.6;">
             <strong>👀 𝓘’𝓂 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝑒𝒹 𝒾𝓃 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉</strong><br>
             <strong>🧑🏻‍💻 𝓜𝓔𝓡𝒩 𝓈𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝓈𝓅.𝒩𝑒𝓉 𝓜𝒱𝒞 𝒞𝑜𝓇𝑒 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝓅𝓅𝓁𝒾𝒸𝒶𝓉𝒾𝑜𝓃 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒾𝒪𝒮 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝓛𝒶𝓇𝒶𝓋𝑒𝓁 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝓁&𝓜𝓛 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇.</strong>
