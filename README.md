@@ -106,8 +106,11 @@
 </div>
 <div align="center">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="150" />
 
+### 🔝 Top Contributed Repo
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=muditbhatt-5&limit=7&theme=dark&combine_all_yearly_contributions=true&text_color=159FFC&bg_color=000f24)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="150" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditbhatt-5&theme=blueberry&hide_border=true" height="150" alt="muditbhatt-5'sGitHubStats" />
   
@@ -119,8 +122,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
 
-### 🔝 Top Contributed Repo
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=muditbhatt-5&limit=7&theme=dark&combine_all_yearly_contributions=true&text_color=159FFC&bg_color=000f24)
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=algolia" /></a>
