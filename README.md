@@ -118,6 +118,7 @@
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
+<img src="https://github-contribution-stats.vercel.app/api/?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution Star"  />
 
 <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=algolia" /></a>
 <a href="https://git.io/typing-svg">
