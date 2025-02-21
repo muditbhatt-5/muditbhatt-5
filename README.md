@@ -141,6 +141,4 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/muditbhatt-5/muditbhatt-5/output/github-contribution-grid-snake.svg)
-
-
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
