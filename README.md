@@ -120,7 +120,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
 
 ### 🔝 Top Contributed Repo
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=muditbhatt-5&limit=7&theme=dark&combine_all_yearly_contributions=true&text_color=159FFC&bg_color=000000)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=muditbhatt-5&limit=7&theme=dark&combine_all_yearly_contributions=true&text_color=159FFC&bg_color=00275b)
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=algolia" /></a>
