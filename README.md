@@ -120,7 +120,7 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="450" alt="Contribution graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="200" alt="Contribution graph"  />
 
 
 
