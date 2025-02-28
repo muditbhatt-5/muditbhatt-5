@@ -1,5 +1,8 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="AboutMe GIF" width="301px" />
+<p>
+  <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli" width="301px">
+</p>
 <br/>
 
  <h1 style="color: blue; text-shadow: 0px 0px 10px lightblue;">
@@ -156,8 +159,6 @@
 </picture>
 
 <!-- GitHub doesn't support JavaScript in README.md, so we use SVG & CSS -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli">
-</p>
+
 
 
