@@ -156,4 +156,8 @@
 </picture>
 
 <!-- GitHub doesn't support JavaScript in README.md, so we use SVG & CSS -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli">
+</p>
+
 
