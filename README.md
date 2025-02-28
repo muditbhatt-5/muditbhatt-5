@@ -156,13 +156,4 @@
 </picture>
 
 <!-- GitHub doesn't support JavaScript in README.md, so we use SVG & CSS -->
-<p align="center">
-  <svg width="400" height="200">
-    <rect x="50" y="20" width="300" height="160" rx="15" ry="15"
-          fill="black" stroke="deepskyblue" stroke-width="4"/>
-    <text x="200" y="110" font-size="16" font-family="Arial, sans-serif" fill="white" text-anchor="middle">
-      Welcome to Mudit Bhatt's GitHub Profile
-    </text>
-  </svg>
-</p>
 
