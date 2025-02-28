@@ -154,3 +154,17 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<!-- GitHub doesn't support JavaScript in README.md, so we use SVG & CSS -->
+<p align="center">
+  <svg width="400" height="200">
+    <rect x="50" y="20" width="300" height="160" rx="15" ry="15"
+          stroke="blue" stroke-width="4" fill="black">
+      <animate attributeName="stroke" values="blue;cyan;deepskyblue;blue" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="80" y="110" font-size="18" font-family="Arial" fill="white"> 
+      Welcome to Mudit Bhatt's GitHub Profile
+    </text>
+  </svg>
+</p>
+
