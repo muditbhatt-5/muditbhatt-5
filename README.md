@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli" width="300px" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli" width="400px" style="display: inline-block; vertical-align: middle;">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="AboutMe GIF" width="301px" style="display: inline-block; vertical-align: middle;">
 </p>
 <br/>
