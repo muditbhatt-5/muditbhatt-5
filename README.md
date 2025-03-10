@@ -102,7 +102,7 @@
         </p>
         <p style="font-size: 18px; color: #666; margin-top: 20px;">
             📫 <strong>How to reach me:</strong><br>
-          <a href="https://bio.link/themudit_18">Connect With Me.</a>
+          <a href="https://bio.link/themudit_18"><button>Connect With Me.</button></a>
         </p>
     </div>
 </div>
