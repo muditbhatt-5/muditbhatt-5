@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Arial', sans-serif; background-color: #f9f9f9; padding: 40px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
-  <h1 style="font-size: 48px; color: #333; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">👋 Hi, I'm Mudit Bhatt</h1>
+  <h1 style="font-size: 48px; color: #333; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">🙋🏻‍♂️ Hey, I'm Mudit Bhatt</h1>
   <p style="font-size: 20px; color: #555; line-height: 1.6; max-width: 800px; margin: 20px auto;">
     Passionate <strong>Full-Stack Developer</strong> specialized in modern web and app development. Enthusiastic about creating efficient and scalable applications.
   </p>
