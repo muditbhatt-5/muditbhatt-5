@@ -30,7 +30,9 @@ Passionate **Full-Stack Developer** specialized in modern web and app developmen
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://bio.link/themudit_18)
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20Here-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://bio.link/themudit_18)
+
 
 ## 📊 GitHub Stats
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=muditbhatt-5&limit=7&theme=dark&combine_all_yearly_contributions=true&text_color=159FFC&bg_color=000f24)
