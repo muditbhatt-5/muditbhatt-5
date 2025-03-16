@@ -12,6 +12,7 @@
   <h2 style="color: #333; font-size: 24px; margin-top: 20px;">📫 Connect with Me</h2>
   <a href="https://bio.link/themudit_18" style="font-size: 18px; background-color: #0073b1; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px;">Connect Here</a>
 </div>
+  <h2 style="color: #333; font-size: 24px; margin-top: 20px;"></h2>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli" width="300px" style="display: inline-block; vertical-align: middle;">
