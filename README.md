@@ -1,3 +1,18 @@
+<div align="center" style="font-family: 'Arial', sans-serif; background-color: #f9f9f9; padding: 40px; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.1);">
+  <h1 style="font-size: 48px; color: #333; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">👋 Hi, I'm Mudit Bhatt</h1>
+  <p style="font-size: 20px; color: #555; line-height: 1.6; max-width: 800px; margin: 20px auto;">
+    Passionate <strong>Full-Stack Developer</strong> specialized in modern web and app development. Enthusiastic about creating efficient and scalable applications.
+  </p>
+
+  <h2 style="color: #333; font-size: 24px; margin-top: 20px;">🚀 Tech Stack</h2>
+  <p style="font-size: 18px; color: #666;">
+    MERN Stack | ASP.NET Core | Laravel | AI/ML | iOS Development
+  </p>
+
+  <h2 style="color: #333; font-size: 24px; margin-top: 20px;">📫 Connect with Me</h2>
+  <a href="https://bio.link/themudit_18" style="font-size: 18px; background-color: #0073b1; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px;">Connect Here</a>
+</div>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli" width="300px" style="display: inline-block; vertical-align: middle;">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="AboutMe GIF" width="301px" style="display: inline-block; vertical-align: middle;">
@@ -86,29 +101,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
-
-<div style="font-family: cursive; background-color: #f4f4f4; padding: 20px;">
-    <div style="max-width: 600px; margin: auto; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 30px;">
-     <div style="background-color: black; font-family: cursive;">
-        <h1 style="font-size: 80px; color: #fff; text-align: center; animation: glow 1s ease-in-out infinite alternate; text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px       #e60073, 0 0 60px #e60073, 0 0 70px #e60073;">👋 𝓗𝓲, 𝓘'𝓶 𝓜𝓾𝓭𝓲𝓽 𝓑𝓱𝓪𝓽𝓽</h1>
-     </div>
-        <p style="color: #666; font-size: 18px; line-height: 1.6;">
-            <strong>👀 𝓘’𝓂 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝑒𝒹 𝒾𝓃 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉</strong><br>
-            <strong>🧑🏻‍💻 𝓜𝓔𝓡𝒩 𝓈𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝓈𝓅.𝒩𝑒𝓉 𝓜𝒱𝒞 𝒞𝑜𝓇𝑒 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝓅𝓅𝓁𝒾𝒸𝒶𝓉𝒾𝑜𝓃 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒾𝒪𝒮 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝓛𝒶𝓇𝒶𝓋𝑒𝓁 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 | 𝒜𝓁&𝓜𝓛 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇.</strong>
-        </p>
-        <p style="font-size: 18px; color: #666; margin-top: 20px;">
-            📫 <strong>How to reach me:</strong><br>
-          <a href="https://bio.link/themudit_18"><button>Connect With Me.</button></a>
-        </p>
-    </div>
-</div>
-<div align="center">
-
-
 ### 🔝 Top Contributed Repo
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=muditbhatt-5&limit=7&theme=dark&combine_all_yearly_contributions=true&text_color=159FFC&bg_color=000f24)
 
