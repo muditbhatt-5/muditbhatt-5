@@ -49,10 +49,12 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ---
 
+# Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="200" alt="Contribution graph"  />
 </p>
 
+# Profile Visitors count
 <p align="center">
   <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" alt="Visitor Count" />
 </p>
