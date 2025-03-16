@@ -41,7 +41,6 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 [![Connect Here](https://img.shields.io/badge/Connect-Bio.Link-blue?style=for-the-badge)](https://bio.link/themudit_18)
 
-## 🔥 Fun Fact
 
 <p align="center">
   <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="We are here to win - Virat Kohli" width="250" />
