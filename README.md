@@ -4,7 +4,7 @@
 
 I'm specialized in modern web and app development, enthusiastic about creating efficient and scalable applications.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack.
 
 **Frontend:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
