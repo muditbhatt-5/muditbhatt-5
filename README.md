@@ -8,9 +8,9 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ## 🚀 Tech Stack
 
-<table align="center" style="border: 2px solid #18b7e3; border-collapse: collapse;">
+<table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
   <tr>
-    <th colspan="5" style="border: 2px solid #18b7e3; padding: 8px;">Frontend</th>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Frontend ✨</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /></td>
@@ -19,38 +19,38 @@ I'm specialized in modern web and app development, enthusiastic about creating e
     <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" /></td>
   </tr>
-  
+
   <tr>
-    <th colspan="5" style="border: 2px solid #18b7e3; padding: 8px;">Backend</th>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Backend ✨</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></td>
   </tr>
 
   <tr>
-    <th colspan="5" style="border: 2px solid #18b7e3; padding: 8px;">Databases & Cloud</th>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Databases & Cloud ✨</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
   </tr>
 
   <tr>
-    <th colspan="5" style="border: 2px solid #18b7e3; padding: 8px;">Programming Languages</th>
+    <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Programming Languages ✨</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></td>
   </tr>
 </table>
 
