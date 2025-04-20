@@ -6,7 +6,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack.
 
 <table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
   <tr>
