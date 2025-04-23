@@ -73,7 +73,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me.
 
 [![Connect Here](https://img.shields.io/badge/Connect-Bio.Link-blue?style=for-the-badge)](https://bio.link/themudit_18)
 
