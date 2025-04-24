@@ -6,7 +6,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack.
 <table align="center" style="border: 3px dashed #18b7e3; border-radius: 10px; padding: 10px;">
   <tr>
     <th colspan="6" style="border: 2px solid #18b7e3; padding: 8px; background-color:#f0fbff;">✨ Frontend ✨</th>
