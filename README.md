@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate Full-Stack Developer
 
-I'm specialized in modern web and app development, enthusiastic about creating efficient and scalable applications.
+I'm specialized in modern web and app development, enthusiastic about creating efficient and scalable applications..
 
 ---
 
