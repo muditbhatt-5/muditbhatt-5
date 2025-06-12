@@ -83,7 +83,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=tokyo-night" height="200" alt="Contribution graph"  />
