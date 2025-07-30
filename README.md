@@ -94,7 +94,7 @@ I'm specialized in modern web and app development, enthusiastic about creating e
 ## 👁️ Profile Visitors Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg" alt="Visitor Count"/>
 </p>
 
 ---
