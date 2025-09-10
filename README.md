@@ -1,33 +1,33 @@
-<!-- 🎉 Mudit Bhatt - Modern RGB Neon GitHub README 🎉 -->
+<!-- 🌈 Mudit Bhatt - RGB Powered GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mudit+Bhatt+🙋🏻‍♂️;🚀+Passionate+Full+Stack+Developer;Crafting+Scalable+%26+Modern+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF,00FFFF,00FF00&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mudit+Bhatt+🙋🏻‍♂️;🚀+Full+Stack+Developer;⚡+Building+Modern+Apps+%26+Systems" alt="Typing SVG" />
 </h1>
 
 ---
 
-## ⚡ About Me  
+## 🌈 Neon About Me  
 💡 Enthusiastic developer specialized in **modern web & app development**  
 ⚙️ Building **efficient, scalable, and creative applications**  
 🎯 Focused on **Full-Stack Development | AI | Cloud Solutions**  
 
 ---
 
-## 🌈 Tech Stack (with RGB Glow)
+## 🌐 Tech Stack with RGB Lights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,angular,bootstrap,threejs,nodejs,express,dotnet,laravel,flask,mongodb,mysql,oracle,aws,firebase,js,ts,python,java,cpp&theme=dark&perline=7" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?skills=react,next,angular,bootstrap,threejs,nodejs,express,dotnet,laravel,flask,mongodb,mysql,oracle,aws,firebase,js,ts,python,java,cpp&includeNames=true&theme=radical" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (RGB Style)
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00F7" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muditbhatt-5&theme=radical&hide_border=true&ring=00F0FF&fire=FF00F7&currStreakLabel=00FF99" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muditbhatt-5&theme=tokyonight&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=00FF99" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF00FF" height="180" />
 
 </div>
 
@@ -35,21 +35,21 @@
 
 ## 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=matrix&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph with RGB Glow
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&theme=matrix&bg_color=0D1117&color=00F0FF&line=FF00F7&point=00FF99" height="250" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&bg_color=000000&color=00FFFF&line=FF00FF&point=00FF99&theme=react-dark" height="250" />
 </p>
 
 ---
 
-## 👁️ Profile Visitors  
+## 👁️ Profile Visitors (Starting from 8000)
 <p align="center">
-  <img src="https://profile-counter.glitch.me/muditbhatt-5/count.svg?start=8000" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=muditbhatt-5&label=👁️+Visitors+Count&color=FF00FF&style=for-the-badge&base=8000" alt="Visitor Count"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🌍 Connect with Me  
 <p align="center">
   <a href="https://bio.link/themudit_18">
-    <img src="https://img.shields.io/badge/Connect-Bio.Link-00F0FF?style=for-the-badge&logo=hyper&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Connect-Bio.Link-00FFFF?style=for-the-badge&logo=hyper&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/9zb1j9nM9o4AAAAd/rgb-lights.gif" width="400" />
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" width="400" />
 </p>
