@@ -1,4 +1,4 @@
-<!-- 🌈 Mudit Bhatt - Ultimate RGB GitHub Profile README -->
+<!-- 🌈 Mudit Bhatt - RGB Powered GitHub Profile README -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=FF00FF,00FFFF,00FF00&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mudit+Bhatt+🙋🏻‍♂️;🚀+Full+Stack+Developer;⚡+Crafting+Modern+%26+Scalable+Apps" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+My+Profile!&fontSize=30&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=header&text=Welcome+to+My+RGB+World!&fontSize=30&animation=twinkling&fontColor=ffffff" />
 </p>
 
 ---
@@ -19,14 +19,24 @@
 
 ---
 
-## 🚀 Tech Stack (RGB Glow)
+## 🚀 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,angular,bootstrap,threejs,nodejs,express,dotnet,laravel,flask,mongodb,mysql,oracle,aws,firebase,js,ts,python,java,cpp&perline=7&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Neon Style)
+## 🔥 Skill Levels 
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=React&width=500&color=00FFFF&suffix=%25" />
+  <img src="https://progress-bar.dev/85/?title=Node.js&width=500&color=FF00FF&suffix=%25" />
+  <img src="https://progress-bar.dev/80/?title=ASP.NET&width=500&color=00FF99&suffix=%25" />
+  <img src="https://progress-bar.dev/75/?title=Python&width=500&color=FFD700&suffix=%25" />
+</p>
+
+---
+
+## 📊 GitHub Stats 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF" height="180" />
@@ -51,14 +61,14 @@
 
 ---
 
-## 📈 Contribution Graph (RGB Lights)
+## 📈 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&bg_color=000000&color=00FFFF&line=FF00FF&point=00FF99&theme=react-dark" height="250" />
 </p>
 
 ---
 
-## 👁️ Profile Visitors (Starting from 8000)
+## 👁️ Profile Visitors 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muditbhatt-5&label=👁️+Visitors&color=FF00FF&style=for-the-badge&base=8000" />
 </p>
@@ -87,6 +97,15 @@
 
 ---
 
+## 🎇 RGB Fun Zone
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAC/rgb-light.gif" width="250" />
+  <img src="https://media.tenor.com/Ug6cbVaO3TMAAAAC/rgb-gaming.gif" width="250" />
+  <img src="https://media.tenor.com/GyFUVmReUOUAAAAC/rgb-rainbow.gif" width="250" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=footer&animation=twinkling" />
 </p>
