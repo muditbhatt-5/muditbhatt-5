@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=header&text=Welcome+to+My+RGB+World!&fontSize=30&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=header&text=Welcome!&fontSize=30&animation=twinkling&fontColor=ffffff" />
 </p>
 
 ---
