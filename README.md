@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=header&text=Welcome+to+My+RGB+World!&fontSize=30&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=header&text=Welcome+to+My+Profile!&fontSize=30&animation=twinkling&fontColor=ffffff" />
 </p>
 
 ---
@@ -93,15 +93,6 @@
   <img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" height="90" />
   <img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" height="90" />
   <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" height="90" />
-</p>
-
----
-
-## 🎇 RGB Fun Zone
-<p align="center">
-  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAC/rgb-light.gif" width="250" />
-  <img src="https://media.tenor.com/Ug6cbVaO3TMAAAAC/rgb-gaming.gif" width="250" />
-  <img src="https://media.tenor.com/GyFUVmReUOUAAAAC/rgb-rainbow.gif" width="250" />
 </p>
 
 ---
