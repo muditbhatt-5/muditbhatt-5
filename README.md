@@ -19,14 +19,14 @@
 
 ---
 
-## 🚀 Tech Stack (RGB Glow)
+## 🚀 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,angular,bootstrap,threejs,nodejs,express,dotnet,laravel,flask,mongodb,mysql,oracle,aws,firebase,js,ts,python,java,cpp&perline=7&theme=dark" />
 </p>
 
 ---
 
-## 🔥 Skill Levels (RGB Progress Bars)
+## 🔥 Skill Levels 
 <p align="center">
   <img src="https://progress-bar.dev/90/?title=React&width=500&color=00FFFF&suffix=%25" />
   <img src="https://progress-bar.dev/85/?title=Node.js&width=500&color=FF00FF&suffix=%25" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats (Neon Style)
+## 📊 GitHub Stats 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=muditbhatt-5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF00FF&icon_color=00FFFF" height="180" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 📚 Languages (Dynamic)
+## 📚 Languages 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00FFFF" height="200" />
 </p>
@@ -61,30 +61,25 @@
 
 ---
 
-## 📈 Contribution Graph (RGB Lights)
+## 📈 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&bg_color=000000&color=00FFFF&line=FF00FF&point=00FF99&theme=react-dark" height="250" />
 </p>
 
 ---
 
-## 👁️ Profile Visitors (Starting from 8000)
+## 👁️ Profile Visitors 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muditbhatt-5&label=👁️+Visitors&color=FF00FF&style=for-the-badge&base=8000" />
+  <img src="https://komarev.com/ghpvc/?username=muditbhatt-5&label=👁️+Visitors&color=2780F5&style=for-the-badge&base=8000" />
 </p>
 
 ---
 
-## 🏏 Virat Kohli – The Striker 💥
 <p align="center">
   <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="Virat Kohli Striker" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥-We%20Are%20Here%20To%20Win-FF0000?style=for-the-badge&logo=cricket&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🏆-King%20Kohli-FFD700?style=for-the-badge&logo=star&logoColor=black&labelColor=000000" />
-  <img src="https://img.shields.io/badge/💯-Chasing%20Master-00FF99?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-</p>
+
 
 ---
 
