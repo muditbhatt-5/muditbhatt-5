@@ -26,16 +26,6 @@
 
 ---
 
-## 🔥 Skill Levels 
-<p align="center">
-  <img src="https://progress-bar.dev/90/?title=React&width=500&color=00FFFF&suffix=%25" />
-  <img src="https://progress-bar.dev/85/?title=Node.js&width=500&color=FF00FF&suffix=%25" />
-  <img src="https://progress-bar.dev/80/?title=ASP.NET&width=500&color=00FF99&suffix=%25" />
-  <img src="https://progress-bar.dev/75/?title=Python&width=500&color=FFD700&suffix=%25" />
-</p>
-
----
-
 ## 📊 GitHub Stats 
 <div align="center">
 
