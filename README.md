@@ -1,4 +1,4 @@
-<!-- 🌈 Mudit Bhatt - RGB Powered GitHub Profile README -->
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=FF00FF,00FFFF,00FF00&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mudit+Bhatt+🙋🏻‍♂️;🚀+Full+Stack+Developer;⚡+Crafting+Modern+%26+Scalable+Apps" alt="Typing SVG" />
