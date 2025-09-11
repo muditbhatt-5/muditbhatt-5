@@ -37,39 +37,4 @@
 
 ## 📚 Languages 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00FFFF" height="200" />
-</p>
-
-<hr color="#3192E0"/>
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=matrix&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" />
-</p>
-
-<hr color="#3192E0"/>
-
-## 📈 Contribution Graph 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&bg_color=000000&color=00FFFF&line=FF00FF&point=00FF99&theme=react-dark" height="250" />
-</p>
-
-<hr color="#3192E0"/>
-
-## 👁️ Profile Visitors 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muditbhatt-5&label=👁️+Visitors&color=2780F5&style=for-the-badge&base=8000" />
-</p>
-
-<hr color="#3192E0"/>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/3MC8f_FMo9QAAAAd/we-are-here-to-win-virat-kohli.gif" alt="Virat Kohli Striker" width="300" />
-</p>
-
-<hr color="#3192E0"/>
-
-## 🌍 Connect with Me  
-<p align="center">
-  <a href="https://bio.link/themudit_18">
-    <img src="https://img.shields.io/badge/🌐-Connect%20Here-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white&l
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbhatt-5&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00FFFF" heig
