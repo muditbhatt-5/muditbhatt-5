@@ -41,13 +41,6 @@
 
 <hr style="border: 1px solid #3192E0;" />
 
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muditbhatt-5&theme=matrix&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" />
-</p>
-
-<hr style="border: 1px solid #3192E0;" />
-
 ## 📈 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muditbhatt-5&bg_color=000000&color=00FFFF&line=FF00FF&point=00FF99&theme=react-dark" height="250" />
