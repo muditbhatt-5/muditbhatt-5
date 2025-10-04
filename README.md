@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=FF00FF,00FFFF,00FF00&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mudit+Bhatt+🙋🏻‍♂️;🚀+Full+Stack+Developer;⚡+Crafting+Modern+%26+Scalable+Apps" alt="Typing SVG" />
 </h1>
 
+
 <hr style="border: 1px solid #3192E0;" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:00FF99&height=120&section=header&text=Welcome!&fontSize=30&animation=twinkling&fontColor=ffffff" />
